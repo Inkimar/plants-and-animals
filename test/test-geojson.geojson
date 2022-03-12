@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-03-04T10:49:51Z",
+  "features": [
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [125.6, 10.1]
+                },
+                "properties": {
+                  "name": "Dinagat Islands"
+                }
+              }
+    ]
+}
+
