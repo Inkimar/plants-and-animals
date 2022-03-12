@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-03-04T10:49:51Z",
+  "features": [
+              {
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [125.6, 10.1]
+                },
+                "properties": {
+                  "name": "Dinagat Islands"
+                }
+              },    
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "@id": "node/25314361",
+                    "amenity": "drinking_water",
+                    "created_by": "bright",
+                    "city": "Lviv"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      24.031111,
+                      49.842957
+                    ]
+                  },
+                  "id": "node/25314361"
+                }
+    ]
+}
