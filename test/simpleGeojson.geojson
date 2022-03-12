@@ -1,0 +1,31 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [125.6, 10.1]
+			},
+			"properties": {
+				"name": "Dinagat Islands"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"@id": "node/25314361",
+				"amenity": "drinking_water",
+				"created_by": "JOSM",
+				"name": "studánka / podivné vodní dílo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.294482,
+					50.1318907
+				]
+			},
+			"id": "node/25314361"
+		}
+	]
+}
