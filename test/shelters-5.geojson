@@ -13,14 +13,12 @@
       "city": "Berezhany",
       "info": "Shelter"
       }
-      }
       },
    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [32.24,50.30]},
       "properties": {
       "city": "Pryluky",
       "info": ["water","food","shelter"]
-      }
       }
       }
 
