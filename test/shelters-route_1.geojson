@@ -1,0 +1,7 @@
+{'type': 'Feature',
+ 'geometry': {'type': 'LineString',
+  'coordinates': [[-94.579644, 39.102126],
+   [-64.579644, 29.102126],
+   [-64.52684, 29.112103],
+   [-64.52684, 29.112103]]},
+ 'properties': {'name': 'Route #1'}}
