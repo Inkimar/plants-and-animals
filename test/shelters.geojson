@@ -1,0 +1,17 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.30,38.45]},
+      "properties": {"prop0": "Alchevsk"}
+      },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [49.26,24.58]},
+      "properties": {"prop0": "Berezhany"}
+      },
+   { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [50.30,32.24]},
+      "properties": {"prop0": "Pryluky"}
+      }
+
+    ]
+}
