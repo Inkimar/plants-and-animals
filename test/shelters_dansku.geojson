@@ -1,0 +1,20 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [38.45,48.30]},
+      "properties": {"prop0": "Alchevsk"}
+      },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [24.58,49.26]},
+      "properties": {"prop0": "Berezhany"}
+      },
+   { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [32.24,50.30]},
+      "properties": {"prop0": "Pryluky"}
+      },
+         { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [33.54,49.25]},
+      "properties": {"prop0": "Test point"}
+      }
+    ]
+}
